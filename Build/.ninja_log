@@ -1,0 +1,15 @@
+# ninja log v5
+0	613	6068946271905892	src/CMakeFiles/ydl.dir/main.cpp.obj	7ff529c2db088696
+615	855	6068946274269570	src/ydl.exe	42cd3d614c7dd282
+1	221	6068947508279679	build.ninja	3f33c4a12baefb93
+0	100	0	clean	4fcd76cb9d4daeaf
+1	631	6068947518672886	src/CMakeFiles/ydl.dir/main.cpp.obj	7ff529c2db088696
+632	877	6068947521106308	src/ydl.exe	42cd3d614c7dd282
+1	236	6068993568521485	build.ninja	3f33c4a12baefb93
+0	98	0	clean	4fcd76cb9d4daeaf
+1	627	6068993578929592	src/CMakeFiles/ydl.dir/main.cpp.obj	1a859a2d13ed18d7
+628	1058	6068993583191366	src/ydl.exe	f790a030a8bd9f0b
+1	294	6068995134074291	build.ninja	3f33c4a12baefb93
+2	73	0	CMakeFiles/install.util	df8d7f090452783d
+2	616	6069035316481613	src/CMakeFiles/ydl.dir/main.cpp.obj	1a859a2d13ed18d7
+616	1015	6069035320419265	src/ydl.exe	f790a030a8bd9f0b
