@@ -6,7 +6,13 @@
 #include <Window/WindowStyle.hpp>
 #include "main.hpp"
 
-int main() {
+/// @fn int main(int, char**)
+/// @brief
+///
+/// @param argc
+/// @param argv
+/// @return
+int main(int argc, char **argv) {
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Shader",
 			sf::Style::Titlebar | sf::Style::Close);
 	sf::CircleShape shape(100.f);
